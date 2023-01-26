@@ -1,0 +1,12 @@
+{
+    "name": "first project",
+    "version" : "1.0.0",
+    "description": "Extension that prioritizes your favorite website",
+    "author": "Maui and Lennon",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "first project"
+     }
+    
+}
