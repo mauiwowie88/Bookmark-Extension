@@ -4,7 +4,7 @@ body {
     margin: auto;
     width: auto;
     font-weight: 600;
-    font-size: 17px;
+    font-size: 19px;
 
 }
 
@@ -27,6 +27,11 @@ body {
   max-width: 100%;
 }
 
+.dogs {
+    max-width: 50%;
+    
+}
+
 .chess {
   border-radius: 50%;
   max-width: 100%;
@@ -37,7 +42,6 @@ body {
 /* Dropdown Content (Hidden by Default) */
 .dropdown-content {
   display: none;
-  min-width: 100px;
   text-align: center;
 }
 
@@ -73,6 +77,7 @@ body {
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {
     background-color: rgba(221, 221, 221, 0.356);
+    border-radius: 50px;
 }
 
 /* Show the dropdown menu on hover */
