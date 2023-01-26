@@ -1,12 +1,12 @@
 {
-    "name": "first project",
+    "name": "Quick Links",
     "version" : "1.0.0",
-    "description": "Extension that prioritizes your favorite website",
+    "description": "Extension that prioritizes your favorite websites",
     "author": "Maui and Lennon",
     "manifest_version": 3,
     "action": {
         "default_popup": "index.html",
-        "default_title": "first project"
+        "default_title": "Quick Links"
      }
     
 } 
