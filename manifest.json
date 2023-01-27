@@ -4,6 +4,10 @@
     "description": "Extension that prioritizes your favorite websites",
     "author": "Maui and Lennon",
     "manifest_version": 3,
+    "icon": [{
+        "16": "/images/snake.png",
+        "32": "/images/snake.png"
+    }],
     "action": {
         "default_popup": "index.html",
         "default_title": "Quick Links"
